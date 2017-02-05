@@ -2,3 +2,7 @@ Hello
 f1(){
   "Ram khani"
 }
+
+f2(){
+  "function 2 added"
+}
